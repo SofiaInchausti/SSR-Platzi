@@ -14,3 +14,12 @@ This project demonstrates the steps taken to implement server-side rendering (SS
 4. **Applied Styles**:
    - Styles were included and applied both on the server and the client to ensure a consistent look and feel.
 
+## To initialize
+
+1- Clone the respoitory:   git clone https://github.com/SofiaInchausti/SSR-Platzi.git
+
+2- cd SSR-Platzi
+
+3- npm install
+
+4- npm start
